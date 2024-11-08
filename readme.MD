@@ -2,7 +2,7 @@
 
 This project contains an Airflow DAG for processing loan data. The DAG is designed to perform data extraction, cleaning, transformation, loading, and a final data quality check on the processed data. The DAG workflow is visualized in the image below.
 
-![DAG Workflow](../credit_analysis_graph.png)
+![DAG Workflow](./credit_analysis_graph.png)
 
 ## Project Structure
 
