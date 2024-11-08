@@ -1,2 +1,5 @@
 # Ignore Python virtual environment
 airflow_env/
+
+#Ignore dataset
+credit_train.csv
